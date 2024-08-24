@@ -1,0 +1,1 @@
+RaffleDetail content
